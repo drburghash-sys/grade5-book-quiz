@@ -1,0 +1,11 @@
+{
+  "name":"خامس من الكتاب",
+  "short_name":"خامس",
+  "start_url":"./?v=0.1.2",
+  "display":"standalone",
+  "background_color":"#f3f6fa",
+  "theme_color":"#16324f",
+  "lang":"ar",
+  "dir":"rtl",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
