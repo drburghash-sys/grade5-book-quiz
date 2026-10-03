@@ -1,18 +1,1 @@
-{
-  "name": "خامس من الكتاب",
-  "short_name": "خامس",
-  "start_url": "./?v=0.1.4",
-  "display": "standalone",
-  "background_color": "#f3f6fa",
-  "theme_color": "#16324f",
-  "lang": "ar",
-  "dir": "rtl",
-  "icons": [
-    {
-      "src": "icon-192.png?v=0.1.4",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
-}
+{"name": "دراستنا", "short_name": "دراستنا", "start_url": "https://drburghash-sys.github.io/Exams/study/", "display": "standalone", "lang": "ar", "dir": "rtl", "icons": [{"src": "https://drburghash-sys.github.io/Exams/study/icon-192.png", "sizes": "192x192", "type": "image/png"}]}
